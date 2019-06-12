@@ -10,7 +10,7 @@ if (process.platform === 'win32') {
     process.env.HOME = process.env.USERPROFILE;
 }
 
-var tilelive = require('tilelive');
+var tilelive = require('@mapbox/tilelive');
 require('mbtiles').registerProtocols(tilelive);
 
 require('bones').load(__dirname);
