@@ -10,7 +10,7 @@
     "main": "./index",
     "repository": {
         "type": "git",
-        "url": "http://github.com/cutting-room-floor/tilestream.git"
+        "url": "http://github.com/frederiksberg/tilestream.git"
     },
     "license" : "BSD-3-Clause",
     "engines": {
